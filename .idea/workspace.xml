@@ -15,7 +15,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/submissions/quiz-fairuzlokman" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -83,7 +83,7 @@
       <workItem from="1662511826531" duration="24000" />
       <workItem from="1662511855552" duration="8905000" />
       <workItem from="1662682289425" duration="19335000" />
-      <workItem from="1662942211334" duration="8450000" />
+      <workItem from="1662942211334" duration="9054000" />
     </task>
     <servers />
   </component>
